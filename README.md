@@ -1,3 +1,4 @@
+![Torchify Logo](/torchify.png)
 # Torchify 
 
 ## Goal 
