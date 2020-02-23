@@ -19,3 +19,7 @@ We would also like to get feedbacks from the users of the first version and impr
 
 ## How to use it 
 At the moment you can download the notebook and run the application on your personal network. 
+
+## Requirements
+
+Dash and plotly.
